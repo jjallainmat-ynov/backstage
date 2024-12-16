@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: backstage
   description: |
-    Backstage is an open-source developer portal that puts the developer experience first.
+    This is a test.
   links:
     - title: Website
       url: http://jjstar.io
